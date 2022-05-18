@@ -1,2 +1,2 @@
 # oslab
-Repo for today's os lab endsem
+Repo for all the codes in operating systems lab
